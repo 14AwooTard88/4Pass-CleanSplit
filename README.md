@@ -3,7 +3,7 @@
 This repo only contains Cleaning of the captcha.
 
 For Captcha OCR refer to:
-https://github.com/14AwooTard88/4Pass-CleanSplit
+https://github.com/14AwooTard88/4Pass-OCR
 
 For Scraping Captcha and posting refer to:
 https://github.com/14AwooTard88/4Pass-Scrape
